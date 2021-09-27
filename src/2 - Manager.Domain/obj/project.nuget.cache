@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xb/VbOy+afOQB9Q3AS7GnbpQ84REe1+WhlXr7RBd/1DARbnSArR2cBlBxha2wU+ZFbf3R4VLwo3Z4TDSJ3z+HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evand\\Documents\\GitHub\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evand\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

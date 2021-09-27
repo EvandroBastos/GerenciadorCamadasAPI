@@ -1,0 +1,12 @@
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.AssemblyReference.cache
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfoInputs.cache
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfo.cs
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\bin\Debug\net5.0\Manager.Domain.deps.json
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\bin\Debug\net5.0\Manager.Domain.dll
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\bin\Debug\net5.0\ref\Manager.Domain.dll
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\bin\Debug\net5.0\Manager.Domain.pdb
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.dll
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\obj\Debug\net5.0\ref\Manager.Domain.dll
+C:\Users\evand\Documents\GitHub\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.pdb
